@@ -1,4 +1,4 @@
-## Welcome to the CSS code test
+## Welcome to the CSS Tester!
 
 ## What is the purpose of this lesson
 
